@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Events Calendar - Shortcode And Templates Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-18 12:23+0000\n"
+"PO-Revision-Date: 2019-02-18 12:28+0000\n"
+"Last-Translator: admin <baljit.cooltimeline@gmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: the-events-calendar-templates-and-shortcode.php:125
+#, php-format
+msgid ""
+"This is an unofficial design addon for \"The Events Calendar\", In order to "
+"use this plugin, Please first install the latest version of <a href=\"%s\" "
+"class=\"thickbox\" title=\"%s\">%s</a> and add an event."
+msgstr ""
+
+#: the-events-calendar-templates-and-shortcode.php:523
+#: includes/ect-masonry-loop.php:120
+msgid "There are no upcoming events at this time."
+msgstr "Non ci sono eventi in questo momento."
+
+#: the-events-calendar-templates-and-shortcode.php:632
+msgid "Load More"
+msgstr "Carica di più"
+
+#: the-events-calendar-templates-and-shortcode.php:633
+msgid "Load more"
+msgstr "caricare più"
+
+#: the-events-calendar-templates-and-shortcode.php:633
+msgid "No Event Found"
+msgstr "Nessun evento trovato"
+
+#: the-events-calendar-templates-and-shortcode.php:633
+msgid "Loading"
+msgstr "Caricamento in corso"
+
+#: the-events-calendar-templates-and-shortcode.php:787
+#: the-events-calendar-templates-and-shortcode.php:790
+#: the-events-calendar-templates-and-shortcode.php:799
+#: the-events-calendar-templates-and-shortcode.php:802
+#, php-format
+msgid "%s - %s"
+msgstr ""
+
+#: the-events-calendar-templates-and-shortcode.php:827
+msgid "(See All)"
+msgstr ""
+
+#: the-events-calendar-templates-and-shortcode.php:1015
+msgid "All"
+msgstr "Tutti"
+
+#. Name of the plugin
+msgid "The Events Calendar - Shortcode And Templates Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The Events Calendar Shortcode And Templates Pro addon provides events list "
+"design templates and shortcode generator functionality for The Events "
+"Calendar plugin. It is an unofficial third party addon for <a href=\"http:"
+"//wordpress.org/plugins/the-events-calendar/\">The Events Calendar (by "
+"Modern Tribe)</a> that extends its design limitations."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://eventscalendartemplates.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Cool Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://coolplugins.net/"
+msgstr ""
